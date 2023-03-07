@@ -27,7 +27,7 @@ export default defineNuxtModule<ModuleOptions>({
 
    addComponent({
     name:"ProjetoModule",
-    filePath:resolve(componentsDir,"ProjetoModule.vue")
+    filePath:resolve(componentsDir,"HelloWorld.vue")
    })
 
   }

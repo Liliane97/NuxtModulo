@@ -1,10 +1,11 @@
 <template>
   <div>
-    <ProjetoModule/>
+    <HelloWorld/>
   </div>
 </template>
 
 <script setup>
-import ProjetoModule from '../dist/runtime/components/projetoModule.vue';
+import HelloWorld from '../dist/runtime/components/HelloWorld.vue';
+
 
 </script>
